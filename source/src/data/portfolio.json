@@ -1,0 +1,594 @@
+{
+  "intro": "Bridging technology, talent, and software engineering.",
+  "about": [
+    "I am a Computer Science graduate with hands-on experience in Java Full-Stack Development and US IT Recruitment.",
+    "My technical background includes Java, Spring Boot, Spring Security, Spring Data JPA, REST APIs, React.js, Next.js, MongoDB, MySQL, PostgreSQL, JavaScript, TypeScript, Python, and AI/Generative AI technologies (OpenAI API, LangChain, RAG).",
+    "My recruitment experience includes technical sourcing, candidate screening, Boolean search, interview coordination, ATS management (CEIPAL, Oorwin), offer management, and onboarding.",
+    "Having experience across both technology and recruitment allows me to understand technical requirements while also understanding the people and talent behind them."
+  ],
+  "skills": [
+    {
+      "id": "languages",
+      "title": "Programming Languages",
+      "items": [
+        "Java",
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "id": "frontend",
+      "title": "Frontend Technologies",
+      "items": [
+        "React.js",
+        "Next.js",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS",
+        "Redux Toolkit",
+        "Responsive Design",
+        "Axios"
+      ]
+    },
+    {
+      "id": "backend",
+      "title": "Backend Technologies",
+      "items": [
+        "Spring Boot",
+        "Spring MVC",
+        "Spring Security",
+        "Spring Data JPA",
+        "Hibernate",
+        "RESTful APIs",
+        "JWT Auth",
+        "Maven",
+        "Microservices (Basics)"
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Generative AI",
+      "items": [
+        "OpenAI API",
+        "LangChain",
+        "Retrieval-Augmented Generation (RAG)",
+        "Prompt Engineering",
+        "AI Chatbots",
+        "LLM Integration",
+        "AI Agents (Basics)",
+        "Vector DBs (ChromaDB, Pinecone)"
+      ]
+    },
+    {
+      "id": "databases",
+      "title": "Databases",
+      "items": [
+        "MySQL",
+        "MongoDB",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "id": "tools",
+      "title": "Developer Tools & CI/CD",
+      "items": [
+        "Git",
+        "GitHub",
+        "Docker",
+        "Postman",
+        "GitHub Actions",
+        "Vercel",
+        "Render",
+        "IntelliJ IDEA",
+        "VS Code",
+        "Eclipse",
+        "Figma",
+        "Vite"
+      ]
+    },
+    {
+      "id": "corecs",
+      "title": "Core Computer Science & Development Practices",
+      "items": [
+        "Data Structures & Algorithms",
+        "Object-Oriented Programming (OOP)",
+        "DBMS",
+        "Operating Systems",
+        "Computer Networks",
+        "Software Engineering",
+        "Design Patterns & MVC",
+        "SOLID Principles",
+        "Exception Handling & Multithreading",
+        "Collections Framework",
+        "Agile / Scrum & SDLC",
+        "Unit Testing (JUnit)",
+        "Clean Code & Debugging"
+      ]
+    },
+    {
+      "id": "recruitment",
+      "title": "Technical Recruitment & ATS",
+      "items": [
+        "CEIPAL ATS",
+        "Oorwin ATS",
+        "US IT Recruitment",
+        "Boolean Search",
+        "Technical Sourcing",
+        "Interview Coordination",
+        "Offer Management"
+      ]
+    }
+  ],
+  "skillFilters": [
+    {
+      "id": "all",
+      "label": "All Skills"
+    },
+    {
+      "id": "languages",
+      "label": "Languages"
+    },
+    {
+      "id": "frontend",
+      "label": "Frontend"
+    },
+    {
+      "id": "backend",
+      "label": "Backend"
+    },
+    {
+      "id": "ai",
+      "label": "AI & GenAI"
+    },
+    {
+      "id": "databases",
+      "label": "Databases"
+    },
+    {
+      "id": "tools",
+      "label": "Tools & DevOps"
+    },
+    {
+      "id": "corecs",
+      "label": "Core CS & Practices"
+    },
+    {
+      "id": "recruitment",
+      "label": "Recruitment"
+    }
+  ],
+  "projectFilters": [
+    {
+      "id": "all",
+      "label": "All Projects"
+    },
+    {
+      "id": "fullstack",
+      "label": "Full Stack"
+    },
+    {
+      "id": "frontend",
+      "label": "Frontend"
+    },
+    {
+      "id": "ai",
+      "label": "AI"
+    },
+    {
+      "id": "webapp",
+      "label": "Web Applications"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Spylt",
+      "description": "A modern web application built for seamless expense tracking, bill splitting, and financial management across groups and teams.",
+      "categories": [
+        "fullstack",
+        "webapp"
+      ],
+      "tags": [
+        "React.js",
+        "Tailwind CSS",
+        "JavaScript",
+        "Vercel"
+      ],
+      "url": "https://spylt-flax.vercel.app/",
+      "links": [
+        {
+          "label": "Open Tab",
+          "url": "https://spylt-flax.vercel.app/"
+        },
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Shivamsingh2004/Spylt"
+        }
+      ]
+    },
+    {
+      "title": "BFMS",
+      "description": "Better Fly Management Solution web platform built for streamlined enterprise workforce, HR, and talent management workflows.",
+      "categories": [
+        "fullstack",
+        "webapp"
+      ],
+      "tags": [
+        "Java",
+        "Web Development",
+        "Full-Stack",
+        "MySQL"
+      ],
+      "url": "https://www.bfms.co.in/",
+      "links": [
+        {
+          "label": "Open Tab",
+          "url": "https://www.bfms.co.in/"
+        },
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Shivamsingh2004/BFMS"
+        }
+      ]
+    },
+    {
+      "title": "Cineverse",
+      "description": "An interactive movie discovery platform featuring rich media browsing, detailed movie info, and responsive user experience.",
+      "categories": [
+        "frontend",
+        "webapp"
+      ],
+      "tags": [
+        "React.js",
+        "JavaScript",
+        "REST APIs",
+        "Tailwind CSS"
+      ],
+      "url": "https://cineverse-frontend-theta.vercel.app/",
+      "links": [
+        {
+          "label": "Open Tab",
+          "url": "https://cineverse-frontend-theta.vercel.app/"
+        },
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Shivamsingh2004/cineverse-frontend"
+        }
+      ]
+    },
+    {
+      "title": "AI Resume",
+      "description": "An intelligent AI-powered resume analysis interface designed to evaluate candidate resume content, skill alignment, and formatting.",
+      "categories": [
+        "ai",
+        "frontend"
+      ],
+      "tags": [
+        "React.js",
+        "AI Integration",
+        "JavaScript",
+        "Tailwind CSS"
+      ],
+      "url": "https://ai-resume-frontend-eosin-phi.vercel.app/",
+      "links": [
+        {
+          "label": "Open Tab",
+          "url": "https://ai-resume-frontend-eosin-phi.vercel.app/"
+        },
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Shivamsingh2004/Ai-resume-frontend"
+        }
+      ]
+    },
+    {
+      "title": "Task Management Application",
+      "description": "A full-stack task management and productivity application enabling secure user authentication, task organization, priority status tracking, and end-to-end team workflow management.",
+      "categories": [
+        "fullstack",
+        "frontend"
+      ],
+      "tags": [
+        "FEATURED FULL STACK APP"
+      ],
+      "url": "https://task-frontend-xi-kohl.vercel.app/login",
+      "links": [
+        {
+          "label": "Open Direct Link (/login)",
+          "url": "https://task-frontend-xi-kohl.vercel.app/login"
+        },
+        {
+          "label": "GitHub (task-Manager)",
+          "url": "https://github.com/Shivamsingh2004/task-Manager"
+        },
+        {
+          "label": "GitHub (task-frontend)",
+          "url": "https://github.com/Shivamsingh2004/task-frontend"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Technical Recruiter",
+      "date": "August 2026 – Present",
+      "company": "Droisys",
+      "location": "Noida",
+      "summary": [
+        "\"Manage end-to-end recruitment for IT and Non-IT positions supporting internal requirements and US-based clients.\""
+      ],
+      "points": [
+        "Source and screen technical candidates using Boolean search techniques.",
+        "Conduct initial candidate screening and assess role fit.",
+        "Coordinate interviews and manage candidate follow-ups.",
+        "Partner with hiring managers and account managers to define hiring strategies.",
+        "Maintain candidate records using Applicant Tracking Systems (ATS).",
+        "Support US IT recruitment for Java Developer, Full Stack Developer, Data Engineer, and QA Analyst roles.",
+        "Manage offer rollout and onboarding activities."
+      ],
+      "tags": [
+        "LinkedIn",
+        "Dice",
+        "Monster",
+        "Indeed",
+        "Boolean Search",
+        "ATS"
+      ]
+    },
+    {
+      "title": "US IT Recruiter",
+      "date": "February 2026 – July 2026",
+      "company": "Headfield Solutions Pvt Ltd.",
+      "location": "Noida",
+      "summary": [],
+      "points": [
+        "Managed full-cycle recruitment supporting US-based clients.",
+        "Sourced and screened technical candidates across engineering disciplines.",
+        "Coordinated interviews and aligned with hiring managers on job requirements.",
+        "Utilized Boolean search techniques to build consistent candidate pipelines.",
+        "Recruited for Java, Full Stack, Data Engineering, and QA Analyst roles.",
+        "Worked with employment authorization categories: H1B, OPT, CPT, US Citizens, Green Card.",
+        "Maintained accurate ATS records and supported candidate onboarding."
+      ],
+      "tags": [
+        "Naukri",
+        "LinkedIn",
+        "Dice",
+        "US Visas (H1B/OPT/GC)",
+        "Full-Cycle Recruitment"
+      ]
+    },
+    {
+      "title": "Web Development Intern",
+      "date": "July 2025 – September 2025",
+      "company": "Alcronix",
+      "location": "New Delhi",
+      "summary": [
+        "\"Collaborated remotely to design, develop, and optimize web platforms using modern web development principles.\""
+      ],
+      "points": [
+        "Engaged in hands-on technical projects under senior engineering teams.",
+        "Developed responsive web platforms using Java, Spring Boot, React.js, and MongoDB.",
+        "Contributed to application testing, debugging, code reviews, and feature enhancements.",
+        "Maintained high standards of data security and confidentiality handling client infrastructure."
+      ],
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "React.js",
+        "MongoDB",
+        "REST APIs"
+      ]
+    },
+    {
+      "title": "Human Resources Intern",
+      "date": "May 2025 – July 2025",
+      "company": "Better Fly Management Solution",
+      "location": "Delhi, India",
+      "summary": [],
+      "points": [
+        "Supported recruitment and staffing processes across multiple technical roles.",
+        "Screened resumes and shortlisted qualified candidates based on role requirements.",
+        "Coordinated interview scheduling between candidates and hiring managers.",
+        "Maintained structured candidate records and recruitment data.",
+        "Followed up with candidates to ensure positive candidate experience."
+      ],
+      "tags": [
+        "Resume Screening",
+        "Interview Scheduling",
+        "Candidate Experience"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Bachelor of Technology (B.Tech) – Computer Science and Engineering",
+      "text": [
+        "Undergraduate Degree",
+        "Bachelor of Technology (B.Tech) – Computer Science and Engineering",
+        "Noida International University, Greater Noida, Uttar Pradesh",
+        "2022 – 2026",
+        "CGPA: 7.5 / 10",
+        "Specialization: Software Engineering & Data Structures"
+      ]
+    },
+    {
+      "title": "Class XII – Science Stream",
+      "text": [
+        "Senior Secondary (Class XII)",
+        "Class XII – Science Stream",
+        "VIVA College, Mumbai, Maharashtra",
+        "2021 – 2022",
+        "Percentage: 60%"
+      ]
+    },
+    {
+      "title": "Class X High School Diploma",
+      "text": [
+        "Secondary School (Class X)",
+        "Class X High School Diploma",
+        "St. Anthony's High School, Mumbai, Maharashtra",
+        "2019 – 2020",
+        "Percentage: 76%"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Coursera Accomplishment Certificate",
+      "description": "Professional specialization credential validating full-stack software development competencies.",
+      "links": [
+        {
+          "label": "Verify on Coursera",
+          "url": "https://www.coursera.org/account/accomplishments/verify/92BCECUUQHWN?utm_source=android&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
+        }
+      ]
+    },
+    {
+      "title": "Coursera Web Engineering",
+      "description": "Advanced course accomplishment certificate covering modern web application development.",
+      "links": [
+        {
+          "label": "Verify on Coursera",
+          "url": "https://www.coursera.org/account/accomplishments/verify/0OWL2GQ7M3SV?utm_source=android&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
+        }
+      ]
+    },
+    {
+      "title": "HackerRank Skill Certificate",
+      "description": "Verified technical problem solving & programming proficiency certificate on HackerRank.",
+      "links": [
+        {
+          "label": "Verify on HackerRank",
+          "url": "https://www.hackerrank.com/certificates/89d03dc7a2bb"
+        }
+      ]
+    },
+    {
+      "title": "Samsung Innovation Campus",
+      "description": "Full Stack Development Training Program covering end-to-end software engineering concepts.",
+      "links": []
+    },
+    {
+      "title": "Meta Professional Certificate",
+      "description": "Full Stack Web Engineering & Responsive UI specialization certificate.",
+      "links": []
+    }
+  ],
+  "research": {
+    "title": "AI-Driven Delay-Tolerant Satellite Networking for Interplanetary Communication",
+    "description": "Published a research paper proposing an AI-driven routing framework for Delay-Tolerant Networks (DTNs) in interplanetary communication systems. Explored intelligent data transmission, network optimization, and AI-based decision-making for deep-space communication systems, demonstrating strong analytical and technical writing skills.",
+    "url": "https://jsiar.com/JSIAR-A-25-04222.html",
+    "tags": [
+      "Artificial Intelligence",
+      "Delay-Tolerant Networks (DTN)",
+      "Satellite Networking",
+      "Interplanetary Communication"
+    ]
+  },
+  "extras": [
+    {
+      "title": "",
+      "text": [
+        "7.5 / 10",
+        "B.Tech CSE CGPA",
+        "Hackathon",
+        "1st Place Winner",
+        "JSIAR",
+        "Published Research Paper",
+        "US IT",
+        "Recruitment Experience"
+      ]
+    },
+    {
+      "title": "Open Source & GitHub",
+      "text": [
+        "Open Source & GitHub",
+        "Explore my projects, experiments, and development work on GitHub.",
+        "Visit My GitHub"
+      ]
+    },
+    {
+      "title": "Why My Background Is Different",
+      "text": [
+        "Unique Value Proposition",
+        "Why My Background Is Different",
+        "Combining technical software engineering expertise with hands-on talent acquisition insight.",
+        "RECRUITMENT",
+        "+",
+        "TECHNOLOGY",
+        "=",
+        "BETTER TECH TALENT UNDERSTANDING",
+        "01 — Recruiter Perspective",
+        "Talent & Hiring Insight",
+        "Understanding hiring requirements, candidate evaluation, sourcing, screening, and recruitment processes.",
+        "02 — Developer Perspective",
+        "Engineering Depth",
+        "Understanding Java, Spring Boot, React.js, APIs, databases, and software development workflows.",
+        "03 — Bridge Between Both",
+        "Effective Translator",
+        "Ability to communicate technical requirements clearly and understand both hiring teams and technical professionals."
+      ]
+    },
+    {
+      "title": "Career Roadmap",
+      "text": [
+        "Career Roadmap",
+        "Key growth milestones leading to current expertise.",
+        "2022",
+        "Started B.Tech",
+        "Computer Science",
+        "2025",
+        "Web Dev Intern",
+        "Alcronix",
+        "2025",
+        "HR Intern",
+        "Better Fly Management",
+        "2026",
+        "US IT Recruiter",
+        "Headfield Solutions",
+        "2026",
+        "Tech Recruiter",
+        "Droisys",
+        "Present",
+        "Tech + Recruiting",
+        "Building Expertise"
+      ]
+    }
+  ],
+  "socials": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/Shivamsingh2004"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shivam-singh2004"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/itzzshivamsingh?igsh=MTBrNng3MTBpbnU2Zg=="
+    },
+    {
+      "label": "X / Twitter",
+      "url": "https://x.com/itzzshivamsingh?t=wJBuLhLkWB2dOLypS0gY8A&s=09"
+    }
+  ],
+  "bring": [],
+  "achievements": [
+    {
+      "title": "Hackathon Winner",
+      "description": "Winner of 24-Hour University Hackathon for developing a Carbon Footprint Calculator, demonstrating rapid problem-solving, teamwork, and full-stack development."
+    },
+    {
+      "title": "Full-Stack Architect",
+      "description": "Built multiple web applications using Java, Spring Boot, React.js, Next.js, and MongoDB with secure RESTful APIs and responsive UI layouts."
+    },
+    {
+      "title": "Industry Certified",
+      "description": "Completed industry-recognized Full Stack Development training programs through Samsung Innovation Campus and Meta Professional Certificate."
+    }
+  ],
+  "heroBio": "Computer Science graduate with hands-on experience in Java Full-Stack Development, modern web technologies, AI/GenAI concepts, and US IT recruitment. I enjoy building software, understanding technology, and connecting talented professionals with opportunities."
+}

@@ -1,0 +1,6 @@
+SHIVAM SINGH — OBSIDIAN PORTFOLIO
+
+website/: Ready-to-host static website. Upload the contents to any static website host, or preview with python3 -m http.server 8000 from this folder.
+source/: Editable React + Vite project. Run npm install then npm run dev.
+
+Contact composes an email in your email app; no server delivery is configured. External project previews may be restricted by those websites; Visit website links are preserved.
